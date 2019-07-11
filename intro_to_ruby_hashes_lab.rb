@@ -1,5 +1,5 @@
 def monopoly
-	:railroads=>{}
+	railroads: {}
 
 end
 
