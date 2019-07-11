@@ -1,6 +1,6 @@
 def monopoly
 	puts {
-		railroads=> "{}"
+		railroads=> {}
 	}
 end
 
