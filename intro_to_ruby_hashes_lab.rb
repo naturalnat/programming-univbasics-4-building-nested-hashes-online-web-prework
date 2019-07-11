@@ -1,4 +1,4 @@
-def monopoly(railroads)
+def monopoly
 railroads = hash.new
 end
 
