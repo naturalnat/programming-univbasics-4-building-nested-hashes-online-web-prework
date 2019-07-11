@@ -1,5 +1,5 @@
-def monopoly
-[:railroads = {}]
+def monopoly(railroads:)
+:railroads = {}
 end
 
 def monopoly_with_second_tier
